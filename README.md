@@ -4,7 +4,7 @@ Using python code in Power Query for Data analysis and model building
 ## Python code
 
 The file 'split_and_tag_data.py' is used to split the dataset into 80% train and 20% test data. <br>
-The file 'Model_building_on_split_data.py' is used to train a linear regression model on the data. <br>
+The file 'Model_building_on_split_data.py' is used to train a linear regression model on the data. <br><br>
 <i>Note: Idea here is to integrate Python in the Power Query for that I have picked Linear regression</i>
 
 ## Visualizations and other information
